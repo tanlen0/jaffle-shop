@@ -1,4 +1,4 @@
--- testing merge conflicts again
+-- testing merge conflict
 
 with
 
