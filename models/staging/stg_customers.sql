@@ -1,4 +1,4 @@
--- testing
+-- testing merge conflict
 
 with
 
