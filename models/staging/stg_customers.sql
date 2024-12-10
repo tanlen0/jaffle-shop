@@ -1,5 +1,3 @@
--- testing merge conflict
-
 with
 
 source as (
