@@ -17,7 +17,6 @@ renamed as (
         name as customer_name
 
     from source
-    where customer_id is not null
 
 )
 
